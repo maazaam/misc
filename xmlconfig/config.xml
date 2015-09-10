@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<factory clazz="com.maaza.eee.ServiceFactoryImpl" />
+	<service clazz="com.maaza.eee.ServiceImpl" />
+	<string>hello</string>
+	<char>a</char>
+	<list>1</list>
+	<list>2</list>
+	<list>3</list>
+</config>
